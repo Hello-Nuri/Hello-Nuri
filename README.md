@@ -1,6 +1,6 @@
 ### 🙋‍♀️ Nice way to meet me
 <p>
-  <a href="https://www.notion.so/Data-analysis-Portfolio-10cdcdf02542800495a3e1cca0cfe531?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Project_Portfolio-000000?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://gem-actor-274.notion.site/Data-analysis-Portfolio-10cdcdf02542800495a3e1cca0cfe531" target="_blank"><img src="https://img.shields.io/badge/Project_Portfolio-000000?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/nuri-park-032059310/" target="_blank"><img src="https://img.shields.io/badge/Nuri_Park-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:nuri.park020@gmail.com" target="_blank"><img src="https://img.shields.io/badge/nuri.park020@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
